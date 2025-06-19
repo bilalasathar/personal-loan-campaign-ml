@@ -52,7 +52,6 @@ To build a binary classification model that predicts whether a customer will acc
   - AllLife Bank should prioritize collecting accurate income and education data to enhance loan targeting.
   - Targeted marketing campaigns can be crafted for customer groups with higher loan adoption likelihood based on these attributes.
   - The post-pruned model can be integrated into the loan approval or marketing decision pipeline for better conversion and outreach efficiency.
-  - 
 ---
 
 
